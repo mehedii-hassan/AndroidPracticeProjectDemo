@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NavigationWithRV.iml" filepath="$PROJECT_DIR$/.idea/modules/NavigationWithRV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NavigationWithRV.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NavigationWithRV.app.iml" />
+    </modules>
+  </component>
+</project>
